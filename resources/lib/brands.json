@@ -1,0 +1,411 @@
+[
+    {
+        "id": "FRANCEINTER",
+        "title": "France Inter",
+        "liveStream": "https://icecast.radiofrance.fr/franceinter-midfi.mp3?id=openapi",
+        "localRadios": null,
+        "webRadios": [
+            {
+                "id": "FRANCEINTER_LA_MUSIQUE_INTER",
+                "title": "La musique d'Inter",
+                "liveStream": "https://icecast.radiofrance.fr/franceinterlamusiqueinter-midfi.mp3?id=openapi"
+            }
+        ]
+    },
+    {
+        "id": "FRANCEINFO",
+        "title": "franceinfo",
+        "liveStream": "https://icecast.radiofrance.fr/franceinfo-midfi.mp3?id=openapi",
+        "localRadios": null,
+        "webRadios": null
+    },
+    {
+        "id": "FRANCEMUSIQUE",
+        "title": "France Musique",
+        "liveStream": "https://icecast.radiofrance.fr/francemusique-midfi.mp3?id=openapi",
+        "localRadios": null,
+        "webRadios": [
+            {
+                "id": "FRANCEMUSIQUE_CLASSIQUE_EASY",
+                "title": "Classique Easy",
+                "liveStream": "https://icecast.radiofrance.fr/francemusiqueeasyclassique-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEMUSIQUE_CLASSIQUE_PLUS",
+                "title": "Classique Plus",
+                "liveStream": "https://icecast.radiofrance.fr/francemusiqueclassiqueplus-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEMUSIQUE_CONCERT_RF",
+                "title": "Concerts Radio France",
+                "liveStream": "https://icecast.radiofrance.fr/francemusiqueconcertsradiofrance-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEMUSIQUE_OCORA_MONDE",
+                "title": "Ocora Musiques du Monde",
+                "liveStream": "https://icecast.radiofrance.fr/francemusiqueocoramonde-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEMUSIQUE_LA_JAZZ",
+                "title": "La Jazz",
+                "liveStream": "https://icecast.radiofrance.fr/francemusiquelajazz-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEMUSIQUE_LA_CONTEMPORAINE",
+                "title": "La Contemporaine",
+                "liveStream": "https://icecast.radiofrance.fr/francemusiquelacontemporaine-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEMUSIQUE_LA_BO",
+                "title": "Musique de Films",
+                "liveStream": "https://icecast.radiofrance.fr/francemusiquelabo-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEMUSIQUE_LA_BAROQUE",
+                "title": "La Baroque",
+                "liveStream": "https://icecast.radiofrance.fr/francemusiquebaroque-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEMUSIQUE_OPERA",
+                "title": "Op\u00e9ra",
+                "liveStream": "https://icecast.radiofrance.fr/francemusiqueopera-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEMUSIQUE_PIANO_ZEN",
+                "title": "Piano Zen",
+                "liveStream": "https://icecast.radiofrance.fr/francemusiquepianozen-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEMUSIQUE_CLASSIQUE_LOVE",
+                "title": "Classique Love",
+                "liveStream": "https://icecast.radiofrance.fr/francemusiqueclassiquelove-midfi.mp3?id=openapi"
+            }
+        ]
+    },
+    {
+        "id": "FRANCECULTURE",
+        "title": "France Culture",
+        "liveStream": "https://icecast.radiofrance.fr/franceculture-lofi.mp3?id=openapi",
+        "localRadios": null,
+        "webRadios": null
+    },
+    {
+        "id": "MOUV",
+        "title": "Mouv'",
+        "liveStream": "https://icecast.radiofrance.fr/mouv-midfi.mp3?id=openapi",
+        "localRadios": null,
+        "webRadios": null
+    },
+    {
+        "id": "FIP",
+        "title": "FIP",
+        "liveStream": "https://icecast.radiofrance.fr/fip-midfi.mp3?id=openapi",
+        "localRadios": null,
+        "webRadios": [
+            {
+                "id": "FIP_ROCK",
+                "title": "FIP Rock",
+                "liveStream": "https://icecast.radiofrance.fr/fiprock-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FIP_JAZZ",
+                "title": "FIP Jazz",
+                "liveStream": "https://icecast.radiofrance.fr/fipjazz-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FIP_GROOVE",
+                "title": "FIP Groove",
+                "liveStream": "https://icecast.radiofrance.fr/fipgroove-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FIP_WORLD",
+                "title": "FIP Monde",
+                "liveStream": "https://icecast.radiofrance.fr/fipworld-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FIP_NOUVEAUTES",
+                "title": "FIP Nouveaut\u00e9s",
+                "liveStream": "https://icecast.radiofrance.fr/fipnouveautes-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FIP_REGGAE",
+                "title": "FIP Reggae",
+                "liveStream": "https://icecast.radiofrance.fr/fipreggae-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FIP_ELECTRO",
+                "title": "FIP Electro",
+                "liveStream": "https://icecast.radiofrance.fr/fipelectro-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FIP_METAL",
+                "title": "FIP Metal",
+                "liveStream": "https://icecast.radiofrance.fr/fipmetal-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FIP_POP",
+                "title": "FIP Pop",
+                "liveStream": "https://icecast.radiofrance.fr/fippop-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FIP_HIP_HOP",
+                "title": "FIP Hip-Hop",
+                "liveStream": "https://icecast.radiofrance.fr/fiphiphop-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FIP_SACREFRANCAIS",
+                "title": "FIP Sacr\u00e9 fran\u00e7ais !",
+                "liveStream": "https://icecast.radiofrance.fr/fipsacrefrancais-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FIP_CULTES",
+                "title": "FIP Cultes",
+                "liveStream": "https://icecast.radiofrance.fr/fipcultes-midfi.mp3?id=openapi"
+            }
+        ]
+    },
+    {
+        "id": "FRANCEBLEU",
+        "title": "ICI",
+        "liveStream": null,
+        "localRadios": [
+            {
+                "id": "FRANCEBLEU_RCFM",
+                "title": "ICI RCFM",
+                "liveStream": "https://icecast.radiofrance.fr/fbfrequenzamora-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_ALSACE",
+                "title": "ICI Alsace",
+                "liveStream": "https://icecast.radiofrance.fr/fbalsace-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_ARMORIQUE",
+                "title": "ICI Armorique",
+                "liveStream": "https://icecast.radiofrance.fr/fbarmorique-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_AUXERRE",
+                "title": "ICI Auxerre",
+                "liveStream": "https://icecast.radiofrance.fr/fbauxerre-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_BEARN",
+                "title": "ICI B\u00e9arn Bigorre",
+                "liveStream": "https://icecast.radiofrance.fr/fbbearn-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_BELFORT_MONTBELIARD",
+                "title": "ICI Belfort-Montb\u00e9liard",
+                "liveStream": "https://icecast.radiofrance.fr/fbbelfort-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_BERRY",
+                "title": "ICI Berry",
+                "liveStream": "https://icecast.radiofrance.fr/fbberry-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_BESANCON",
+                "title": "ICI Besan\u00e7on",
+                "liveStream": "https://icecast.radiofrance.fr/fbbesancon-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_BOURGOGNE",
+                "title": "ICI Bourgogne",
+                "liveStream": "https://icecast.radiofrance.fr/fbbourgogne-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_BREIZH_IZEL",
+                "title": "ICI Breizh Izel",
+                "liveStream": "https://icecast.radiofrance.fr/fbbreizizel-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_CHAMPAGNE_ARDENNE",
+                "title": "ICI Champagne-Ardenne",
+                "liveStream": "https://icecast.radiofrance.fr/fbchampagne-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_COTENTIN",
+                "title": "ICI Cotentin",
+                "liveStream": "https://icecast.radiofrance.fr/fbcotentin-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_CREUSE",
+                "title": "ICI Creuse",
+                "liveStream": "https://icecast.radiofrance.fr/fbcreuse-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_DROME_ARDECHE",
+                "title": "ICI Dr\u00f4me Ard\u00e8che",
+                "liveStream": "https://icecast.radiofrance.fr/fbdromeardeche-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_GARD_LOZERE",
+                "title": "ICI Gard Loz\u00e8re",
+                "liveStream": "https://icecast.radiofrance.fr/fbgardlozere-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_GASCOGNE",
+                "title": "ICI Gascogne",
+                "liveStream": "https://icecast.radiofrance.fr/fbgascogne-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_GIRONDE",
+                "title": "ICI Gironde",
+                "liveStream": "https://icecast.radiofrance.fr/fbgironde-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_HERAULT",
+                "title": "ICI H\u00e9rault",
+                "liveStream": "https://icecast.radiofrance.fr/fbherault-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_ISERE",
+                "title": "ICI Is\u00e8re",
+                "liveStream": "https://icecast.radiofrance.fr/fbisere-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_LA_ROCHELLE",
+                "title": "ICI La Rochelle",
+                "liveStream": "https://icecast.radiofrance.fr/fblarochelle-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_LIMOUSIN",
+                "title": "ICI Limousin",
+                "liveStream": "https://icecast.radiofrance.fr/fblimousin-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_LOIRE_OCEAN",
+                "title": "ICI Loire Oc\u00e9an",
+                "liveStream": "https://icecast.radiofrance.fr/fbloireocean-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_SUR_LORRAINE",
+                "title": "ICI Lorraine (Meurthe-et-Moselle et Vosges)",
+                "liveStream": "https://icecast.radiofrance.fr/fbsudlorraine-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_MAYENNE",
+                "title": "ICI Mayenne",
+                "liveStream": "https://icecast.radiofrance.fr/fbmayenne-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_NORD",
+                "title": "ICI Nord",
+                "liveStream": "https://icecast.radiofrance.fr/fbnord-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_NORMANDIE_CAEN",
+                "title": "ICI Normandie (Calvados - Orne)",
+                "liveStream": "https://icecast.radiofrance.fr/fbbassenormandie-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_NORMANDIE_ROUEN",
+                "title": "ICI Normandie (Seine-Maritime - Eure)",
+                "liveStream": "https://icecast.radiofrance.fr/fbhautenormandie-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_ORLEANS",
+                "title": "ICI Orl\u00e9ans",
+                "liveStream": "https://icecast.radiofrance.fr/fborleans-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_PAYS_D_AUVERGNE",
+                "title": "ICI Pays d'Auvergne",
+                "liveStream": "https://icecast.radiofrance.fr/fbpaysdauvergne-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_PAYS_BASQUE",
+                "title": "ICI Pays Basque",
+                "liveStream": "https://icecast.radiofrance.fr/fbpaysbasque-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_PAYS_DE_SAVOIE",
+                "title": "ICI Pays de Savoie",
+                "liveStream": "https://icecast.radiofrance.fr/fbpaysdesavoie-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_PERIGORD",
+                "title": "ICI P\u00e9rigord",
+                "liveStream": "https://icecast.radiofrance.fr/fbperigord-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_PICARDIE",
+                "title": "ICI Picardie",
+                "liveStream": "https://icecast.radiofrance.fr/fbpicardie-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_PROVENCE",
+                "title": "ICI Provence",
+                "liveStream": "https://icecast.radiofrance.fr/fbprovence-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_ROUSSILLON",
+                "title": "ICI Roussillon",
+                "liveStream": "https://icecast.radiofrance.fr/fbroussillon-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_TOURAINE",
+                "title": "ICI Touraine",
+                "liveStream": "https://icecast.radiofrance.fr/fbtouraine-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_VAUCLUSE",
+                "title": "ICI Vaucluse",
+                "liveStream": "https://icecast.radiofrance.fr/fbvaucluse-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_AZUR",
+                "title": "ICI Azur",
+                "liveStream": "https://icecast.radiofrance.fr/fbazur-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_LORRAINE_NORD",
+                "title": "ICI Lorraine (Moselle et Pays Haut)",
+                "liveStream": "https://icecast.radiofrance.fr/fblorrainenord-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_POITOU",
+                "title": "ICI Poitou",
+                "liveStream": "https://icecast.radiofrance.fr/fbpoitou-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_PARIS",
+                "title": "ICI Paris \u00cele-de-France",
+                "liveStream": "https://icecast.radiofrance.fr/fb1071-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "ELSASS",
+                "title": "ICI Elsass",
+                "liveStream": "https://icecast.radiofrance.fr/fbelsass-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_MAINE",
+                "title": "ICI Maine",
+                "liveStream": "https://icecast.radiofrance.fr/fbmaine-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_TOULOUSE",
+                "title": "ICI Occitanie",
+                "liveStream": "https://icecast.radiofrance.fr/fbtoulouse-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_SAINT_ETIENNE_LOIRE",
+                "title": "ICI Saint-\u00c9tienne Loire",
+                "liveStream": "https://icecast.radiofrance.fr/fbstetienne-midfi.mp3?id=openapi"
+            }
+        ],
+        "webRadios": [
+            {
+                "id": "FRANCEBLEU_CHANSON_FRANCAISE",
+                "title": "100% chanson fran\u00e7aise",
+                "liveStream": "https://icecast.radiofrance.fr/fbchansonfrancaise-midfi.mp3?id=openapi"
+            },
+            {
+                "id": "FRANCEBLEU_100POUR100ANNEES80",
+                "title": "100% ann\u00e9es 80",
+                "liveStream": "https://icecast.radiofrance.fr/fb100pour100annees80-midfi.mp3?id=openapi"
+            }
+        ]
+    }
+]
