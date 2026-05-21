@@ -8,6 +8,7 @@ from . import api
 
 class Groups(kplugin.Folder):
     def open(self):
+        self.set_cache_to_disc(True)
         for group in api.get_groups():
             yield Group(group=group)
 
@@ -27,6 +28,7 @@ class Group(kplugin.Folder, qargs=["group"]):
         }
 
     def open(self):
+        self.set_cache_to_disc(True)
         group = self.query.get("group")
         for radio in api.get_radios_by_group(group):
             yield Radio(id=radio["id"], radio=radio)
