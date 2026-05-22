@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="kable.plugin.radiofrance" name="Radio France" version="0.0.2" provider-name="Kaspar Winckler">
+<addon id="kable.plugin.radiofrance" name="Radio France" version="0.0.3" provider-name="Kaspar Winckler">
   <requires>
     <import addon="kable.framework" version="0.0.0" />
   </requires>
