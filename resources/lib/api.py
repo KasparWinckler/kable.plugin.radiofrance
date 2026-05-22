@@ -103,7 +103,9 @@ def get_stream(radio):
     path = radio["stream"].split("/")[-1]
     slug, _ = path.split("-")
 
-    return f"https://stream.radiofrance.fr/{slug}/{slug}.m3u8?id=radiofrance"
+    fidelity = "midfi" if radio["id"] == "ELSASS" else "hifi"
+
+    return f"https://stream.radiofrance.fr/{slug}/{slug}_{fidelity}.m3u8?id=radiofrance"
 
 
 def search_radios_by_title(search_term):
